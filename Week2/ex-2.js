@@ -89,18 +89,3 @@ con.connect((err) => {
 
   con.end();
 })
-
-// ("Betul","Rotterdam Uni","1990-04-01", 4,"F",3),
-//   ("Jan","Utrect Uni","1991-04-01", 1,"M",5),
-//   ("Rene","Lahey Uni","1992-04-01", 2,"M",7),
-//   ("Jorien","Eindhoven Uni","1993-04-01", 3,"F",5),
-//   ("Josien","Delft Uni","1994-04-01", 4,"F",2),
-//   ("Caroline","Den Helder Uni","1997-04-01", 5,"F",4),
-//   ("Els","berlin Uni","1984-04-01", 6,"F",8),
-//   ("Juul","Kayseri Uni","1964-04-01", 7,"M",9),
-//   ("Toon","Paris Uni","1954-04-01", 8,"M",6),
-//   ("Miriam","Munih Uni","1964-04-01", 9,"F",6),
-//   ("Zeynep","Groningen Uni","1944-04-01", 2,"F",7),
-//   ("Elif","Ter Apel Uni","1974-04-01", 3,"F",9),
-//   ("Kemal","Zwolle Uni","1954-04-01", 4,"M",7),
-//   ("Ali","Fortuna Uni","1944-04-01", 5,"M",8)
