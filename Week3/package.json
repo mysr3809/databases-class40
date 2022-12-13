@@ -1,0 +1,19 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "## Agenda",
+  "main": "async-transaction.js",
+  "dependencies": {
+    "mongodb": "^4.11.0",
+    "mysql": "^2.18.1",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
