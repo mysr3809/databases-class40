@@ -1,5 +1,4 @@
 const { MongoClient, ServerApiVersion } = require("mongodb");
-
 const { seedDatabase } = require("./seedDatabase.js");
 
 async function createEpisodeExercise(client) {
